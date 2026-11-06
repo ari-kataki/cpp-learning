@@ -1,0 +1,13 @@
+.DS_Store
+*.o
+*.exe
+*.dSYM/
+main
+a.out
+.vscode/
+.idea/
+out/
+bin/
+obj/
+*.class
+*.log
